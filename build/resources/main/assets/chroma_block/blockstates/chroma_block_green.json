@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "chroma_block:block/chroma_block_green"
+    }
+  }
+}

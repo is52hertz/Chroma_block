@@ -1,0 +1,14 @@
+{
+  "block.chroma_block.bb_chroma_block_cyan": "Bb青色度方块",
+  "block.chroma_block.chroma_block_blue": "蓝色度方块",
+  "block.chroma_block.chroma_block_white": "白色度方块",
+  "block.chroma_block.chroma_block_red": "红色度方块",
+  "block.chroma_block.bb_chroma_block_pink": "Bb粉色度方块",
+  "block.chroma_block.bb_chroma_block_green": "Bb绿色度方块",
+  "block.chroma_block.bb_chroma_block_red": "Bb红色度方块",
+  "block.chroma_block.chroma_block_green": "绿色度方块",
+  "itemGroup.tabchroma_block": "色度方块",
+  "block.chroma_block.bb_chroma_block_blue": "Bb蓝色度方块",
+  "block.chroma_block.chroma_block_black": "黑色度方块",
+  "item.chroma_block.kill_sword": "杀人剑"
+}

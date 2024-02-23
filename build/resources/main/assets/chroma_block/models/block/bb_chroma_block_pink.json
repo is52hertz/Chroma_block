@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "chroma_block:blocks/bb_chroma_block_pink",
+    "up": "chroma_block:blocks/bb_chroma_block_pink",
+    "north": "chroma_block:blocks/bb_chroma_block_pink",
+    "east": "chroma_block:blocks/bb_chroma_block_pink",
+    "south": "chroma_block:blocks/bb_chroma_block_pink",
+    "west": "chroma_block:blocks/bb_chroma_block_pink",
+    "particle": "chroma_block:blocks/bb_chroma_block_pink"
+  }
+}

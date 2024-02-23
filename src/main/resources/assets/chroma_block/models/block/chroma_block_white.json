@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "chroma_block:blocks/chroma_block_white",
+    "up": "chroma_block:blocks/chroma_block_white",
+    "north": "chroma_block:blocks/chroma_block_white",
+    "east": "chroma_block:blocks/chroma_block_white",
+    "south": "chroma_block:blocks/chroma_block_white",
+    "west": "chroma_block:blocks/chroma_block_white",
+    "particle": "chroma_block:blocks/chroma_block_white"
+  }
+}

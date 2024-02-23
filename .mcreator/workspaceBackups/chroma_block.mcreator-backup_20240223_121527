@@ -1,0 +1,219 @@
+{
+  "mod_elements": [
+    {
+      "name": "ChromaBlockGreen",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chroma_block_green"
+    },
+    {
+      "name": "ChromaBlockBlue",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chroma_block_blue"
+    },
+    {
+      "name": "ChromaBlockRed",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chroma_block_red"
+    },
+    {
+      "name": "ChromaBlockBlack",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chroma_block_black"
+    },
+    {
+      "name": "ChromaBlockWhite",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chroma_block_white"
+    },
+    {
+      "name": "ChromaBlock",
+      "type": "tab",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chroma_block"
+    },
+    {
+      "name": "GiveChromaBlockflow",
+      "type": "procedure",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "give_chroma_blockflow",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GiveChromaBlock",
+      "type": "command",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "give_chroma_block"
+    },
+    {
+      "name": "BbChromaBlockGreen",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bb_chroma_block_green",
+      "path": "~/Blockbuster"
+    },
+    {
+      "name": "BbChromaBlockRed",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bb_chroma_block_red",
+      "path": "~/Blockbuster"
+    },
+    {
+      "name": "BbChromaBlockBlue",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bb_chroma_block_blue",
+      "path": "~/Blockbuster"
+    },
+    {
+      "name": "BbChromaBlockCyan",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bb_chroma_block_cyan",
+      "path": "~/Blockbuster"
+    },
+    {
+      "name": "BbChromaBlockPink",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bb_chroma_block_pink",
+      "path": "~/Blockbuster"
+    },
+    {
+      "name": "GiveBbChromaBlockFlow",
+      "type": "procedure",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "give_bb_chroma_block_flow",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Blockbuster"
+    },
+    {
+      "name": "GiveBbChromaBlock",
+      "type": "command",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "give_bb_chroma_block",
+      "path": "~/Blockbuster"
+    },
+    {
+      "name": "KillSword",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kill_sword",
+      "path": "~/OP"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.chroma_block.bb_chroma_block_cyan": "Bb Chroma Block Cyan",
+      "block.chroma_block.chroma_block_blue": "Chroma Block Blue",
+      "block.chroma_block.chroma_block_white": "Chroma Block White",
+      "block.chroma_block.chroma_block_red": "Chroma Block Red",
+      "block.chroma_block.bb_chroma_block_pink": "Bb Chroma Block Pink",
+      "block.chroma_block.bb_chroma_block_green": "Bb Chroma Block Green",
+      "block.chroma_block.bb_chroma_block_red": "Bb Chroma Block Red",
+      "block.chroma_block.chroma_block_green": "Chroma Block Green",
+      "itemGroup.tabchroma_block": "Chroma Block",
+      "block.chroma_block.bb_chroma_block_blue": "Bb Chroma Block Blue",
+      "block.chroma_block.chroma_block_black": "Chroma Block Black",
+      "item.chroma_block.kill_sword": "Kill Sword"
+    },
+    "zh_cn": {
+      "block.chroma_block.bb_chroma_block_cyan": "Bb青色度方块",
+      "block.chroma_block.chroma_block_blue": "蓝色度方块",
+      "block.chroma_block.chroma_block_white": "白色度方块",
+      "block.chroma_block.chroma_block_red": "红色度方块",
+      "block.chroma_block.bb_chroma_block_pink": "Bb粉色度方块",
+      "block.chroma_block.bb_chroma_block_green": "Bb绿色度方块",
+      "block.chroma_block.bb_chroma_block_red": "Bb红色度方块",
+      "block.chroma_block.chroma_block_green": "绿色度方块",
+      "itemGroup.tabchroma_block": "色度方块",
+      "block.chroma_block.bb_chroma_block_blue": "Bb蓝色度方块",
+      "block.chroma_block.chroma_block_black": "黑色度方块",
+      "item.chroma_block.kill_sword": "杀人剑"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Blockbuster",
+        "children": []
+      },
+      {
+        "name": "OP",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "chroma_block",
+    "modName": "Chroma block",
+    "version": "1.0.0",
+    "author": "86158, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.chromablock",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

@@ -1,0 +1,29 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "kill_sword",
+    "customModelName": "Normal",
+    "name": "Kill Sword",
+    "specialInfo": [
+      "Kill everything"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:ChromaBlock"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 4,
+    "efficiency": 12.0,
+    "attackSpeed": 1.0,
+    "enchantability": 100,
+    "damageVsEntity": 9999.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

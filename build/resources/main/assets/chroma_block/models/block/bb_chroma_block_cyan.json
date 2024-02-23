@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "chroma_block:blocks/bb_chroma_block_cyan",
+    "up": "chroma_block:blocks/bb_chroma_block_cyan",
+    "north": "chroma_block:blocks/bb_chroma_block_cyan",
+    "east": "chroma_block:blocks/bb_chroma_block_cyan",
+    "south": "chroma_block:blocks/bb_chroma_block_cyan",
+    "west": "chroma_block:blocks/bb_chroma_block_cyan",
+    "particle": "chroma_block:blocks/bb_chroma_block_cyan"
+  }
+}

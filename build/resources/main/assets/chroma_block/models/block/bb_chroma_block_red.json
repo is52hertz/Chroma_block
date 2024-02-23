@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "chroma_block:blocks/bb_chroma_block_red",
+    "up": "chroma_block:blocks/bb_chroma_block_red",
+    "north": "chroma_block:blocks/bb_chroma_block_red",
+    "east": "chroma_block:blocks/bb_chroma_block_red",
+    "south": "chroma_block:blocks/bb_chroma_block_red",
+    "west": "chroma_block:blocks/bb_chroma_block_red",
+    "particle": "chroma_block:blocks/bb_chroma_block_red"
+  }
+}
